@@ -3,6 +3,7 @@
 ## Description
 Welcome to the project! This repository contains a dataset of raw job listings scraped from Glassdoor, focusing primarily on Data Scientist positions. You'll find various attributes such as job title, salary estimate, company information, and more—all sourced directly from the web. Please note that this data is in its original, unprocessed form, as obtained through web scraping.
 
+For those interested in the web scraping process, a web scraper was used to extract the data from Glassdoor. You can find detailed instructions on how to use the web scraper in the tutorial by Omer Sakarya, published on the "townrdsdatascience" blog. Check it out here: [Scraping Glassdoor.com in 10 Minutes with Selenium](https://mersakarya.medium.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905).
 
 ## Dataset Information
 The dataset includes the following columns:
