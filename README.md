@@ -10,7 +10,7 @@ For those interested in the web scraping process, a web scraper was used to extr
 
 ## Dataset Information
 
-![Description of image](/Documents/Data Science Salary/to/df_head.png)
+![Description of image](df_head.png)
 
 The dataset includes the following columns:
 
