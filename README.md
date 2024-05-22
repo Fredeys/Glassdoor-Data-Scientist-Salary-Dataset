@@ -7,10 +7,10 @@ Welcome to the project! This repository contains a dataset of raw job listings s
 
 For those interested in the web scraping process, a web scraper was used to extract the data from Glassdoor. You can find detailed instructions on how to use the web scraper in the tutorial by Omer Sakarya, published on the "townrdsdatascience" blog. Check it out here: [Scraping Glassdoor.com in 10 Minutes with Selenium](https://mersakarya.medium.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905).
 
+You can find the 2024 version of the webscraper [here](https://github.com/Fredeys/Data-Scientist-Salary-Prediction).
+
 
 ## Dataset Information
-
-![Description of image](df_head.png)
 
 The dataset includes the following columns:
 
@@ -43,7 +43,7 @@ Happy exploring!
 
 ## Contributing
 
-We welcome contributions to improve this dataset! If you have suggestions for new features, find any issues, or have ideas for enhancements, please let us know by opening an issue on GitHub.
+Your welcome contributions to improve this dataset! If you have suggestions for new features, find any issues, or have ideas for enhancements, please let us know by opening an issue on GitHub.
 If you're interested in contributing code changes, feel free to fork this repository and submit a pull request. Please ensure that your contributions adhere to our coding standards and include a clear description of the changes you've made.
 Together, we can make this dataset even more valuable for the data science community!
 
